@@ -1,0 +1,1 @@
+class Report < ApplicationRecord; end
